@@ -1,0 +1,10 @@
+
+---
+
+## 📜 2. `requirements.txt`
+
+```txt
+scikit-learn
+gradio
+numpy
+joblib
