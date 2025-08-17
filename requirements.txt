@@ -1,10 +1,5 @@
-
----
-
-## 📜 2. `requirements.txt`
-
-```txt
-scikit-learn
-gradio
+torch
+torchvision
+matplotlib
 numpy
-joblib
+gradio
